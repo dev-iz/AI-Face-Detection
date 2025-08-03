@@ -5,6 +5,7 @@ from tensorflow.keras.preprocessing.image import load_img, img_to_array
 from PIL import Image
 
 
+st.title("AI Face Detection App")  # Updated title
 
 # ---- CONFIG ----
 st.set_page_config(page_title="AI vs Real Face Classifier", layout="centered")
