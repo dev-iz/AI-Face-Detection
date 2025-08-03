@@ -4,6 +4,8 @@ from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.image import load_img, img_to_array
 from PIL import Image
 
+
+
 # ---- CONFIG ----
 st.set_page_config(page_title="AI vs Real Face Classifier", layout="centered")
 
