@@ -3,3 +3,5 @@ __pycache__/
 *.h5
 *.ipynb_checkpoints/
 input/AI-face-detection-Dataset/
+.ipynb_checkpoints/
+*.ipynb
